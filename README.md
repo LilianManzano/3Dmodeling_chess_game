@@ -33,7 +33,7 @@ This project being intended for a French professor, so this report and the comme
 
 # Contributors 
 
-- [Lilian M.](https://github.com/LilianLeVrai "")
+- [Lilian M.](https://github.com/LilianManzano "")
 - Robin L.
 
 
